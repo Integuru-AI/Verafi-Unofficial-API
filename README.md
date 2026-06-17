@@ -4,7 +4,7 @@ Unofficial Python integrations for Verafi.
 
 ## Integrations
 
-- `verafi_adp_timecard_report.py` - `adp_timecard_report` (21 live events).
+- `verafi_adp_timecard_report.py` - `adp_timecard_report`.
 
 ## Usage
 
